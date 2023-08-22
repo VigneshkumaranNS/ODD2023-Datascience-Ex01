@@ -9,6 +9,7 @@ Data cleaning is the process of preparing data for analysis by removing or modif
 Data cleaning is not simply about erasing data ,but rather finding a way to maximize datasets accuracy without necessarily deleting the information. 
 
 # ALGORITHM
+## DATA
 ### STEP 1
 Read the given Data
 ### STEP 2
